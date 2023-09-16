@@ -13,7 +13,7 @@
     "projectelo.text.roommessage.idle": "Oczekiwanie na graczy...",
     "projectelo.text.roommessage.ready": "Gra rozpocznie się za %s...",
     "projectelo.text.matchtype.casual": "Tryb Nierankingowy",
-    "projectelo.text.matchtype.casual.description": "Casually race against a larger range of players.\nThis mode won't affect your elo rating.",
+    "projectelo.text.matchtype.casual.description": "Swobodnie graj z większą ilością graczy.\nTen tryb nie wpłynia na ranking Elo.",
     "projectelo.text.matchtype.ranked": "Tryb Rankingowy",
     "projectelo.text.matchtype.ranked.description": "Race against an opponent of similar skill,\nin the same seed at the same time.\n\nTry to improve your elo\nby competing against another player with similar Elo.",
     "projectelo.text.matchtype.private": "Prywatny Pokój",
